@@ -4436,4 +4436,7 @@
 
     <!-- Label used by Telephony code, assigned as the display name for conference calls [CHAR LIMIT=60] -->
     <string name="conference_call">Conference Call</string>
+
+    <!-- label for item that starts SOS call -->
+    <string name="global_action_sos_button">SOS</string>
 </resources>
